@@ -1,0 +1,30 @@
+name: Update Progress Badge
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Count progress days
+        run: |
+          DAYS=$(grep -cE '^[|] [0-9]+ ' README.md)
+          echo "DAYS=$DAYS" >> $GITHUB_ENV
+
+      - name: Update badge
+        run: |
+          sed -i "s|badge/Days_Completed-.*-green|badge/Days_Completed-${DAYS}-green|g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update progress badge to $DAYS days" || echo "No changes to commit"
+          git push
