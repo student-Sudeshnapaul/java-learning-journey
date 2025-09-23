@@ -1,11 +1,11 @@
-# Java Learning Journey 🚀
+Java Learning Journey 🚀
 
 This repository documents my **daily Java learning progress**, with practice programs, exercises, and notes.  
 I aim to improve step by step — from basics to advanced Java concepts — and track my journey here.  
 
 ---
 
-## 🎯 Goals
+🎯 Goals
 - Build a strong foundation in Java basics (syntax, loops, OOP, etc.)
 - Practice problem-solving with Java
 - Explore advanced topics like collections, multithreading, and file handling
@@ -13,17 +13,17 @@ I aim to improve step by step — from basics to advanced Java concepts — and 
 
 ---
 
-## 📅 Daily Progress (Chart)
+📅 Daily Progress (Chart)
 
 | Day | Date       | Topics Covered        |
 |-----|------------|-----------------------|
 | 1   | 22/09/2025 | Java Basic Syntaxes   |
 
-👉 Add new rows every day as you progress.
+
 
 ---
 
-## 🛠️ How to Run Programs
+ 🛠️ How to Run Programs
 1. Clone the repo:
    ```bash
    git clone https://github.com/student-Sudeshnapaul/java-learning-journey.git
