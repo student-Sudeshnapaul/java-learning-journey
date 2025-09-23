@@ -22,7 +22,7 @@ I aim to improve step by step — from basics to advanced Java concepts — and 
 | 1   | 22/09/2025 | Java Basic Syntaxes |
 | 2   | 23/09/2025 | User Input in Java  |
 
-*(Add a new row daily as you progress)*
+“Small steps every day lead to big results.”
 
 ---
 
