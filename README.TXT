@@ -1,12 +1,34 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Java Learning Journey 🚀
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This repository documents my **daily Java learning progress**, with practice programs, exercises, and notes.  
+I aim to improve step by step — from basics to advanced Java concepts — and track my journey here.  
+
+---
+
+## 🎯 Goals
+- Build a strong foundation in Java basics (syntax, loops, OOP, etc.)
+- Practice problem-solving with Java
+- Explore advanced topics like collections, multithreading, and file handling
+- Work on small projects to apply concepts
+
+---
+
+## 📅 Daily Progress (Chart)
+
+| Day | Date       | Topics Covered        |
+|-----|------------|-----------------------|
+| 1   | 22/09/2025 | Java Basic Syntaxes   |
+
+👉 Add new rows every day as you progress.
+
+---
+
+## 🛠️ How to Run Programs
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/student-Sudeshnapaul/java-learning-journey.git
+
+
+---
+
+“Small steps every day lead to big results.”
