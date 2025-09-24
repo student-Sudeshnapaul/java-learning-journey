@@ -18,9 +18,11 @@ I aim to improve step by step — from basics to advanced Java concepts — and 
 ## 📅 Daily Progress
 
 | Day | Date       | Topics Covered       |
-|-----|------------|--------------------|
-| 1   | 22/09/2025 | Java Basic Syntaxes |
-| 2   | 23/09/2025 | User Input in Java  |
+|-----|------------|----------------------|
+| 1   | 22/09/2025 | Java Basic Syntaxes  |
+| 2   | 23/09/2025 | User Input in Java   |
+| 3   | 24/09/2025 | If-Else Statements   |
+
 
 “Small steps every day lead to big results.”
 
