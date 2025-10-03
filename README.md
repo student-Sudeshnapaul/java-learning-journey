@@ -1,7 +1,5 @@
 # Java Learning Journey 🚀
 
-![Progress](https://img.shields.io/badge/Days_Completed-<!--DAYS-->-green?style=for-the-badge&logo=java)
-
 This repository documents my **daily Java learning progress**, with practice programs, exercises, and code examples.  
 I aim to improve step by step — from basics to advanced Java concepts — and track my journey here.  
 
