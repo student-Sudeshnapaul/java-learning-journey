@@ -22,6 +22,8 @@ I aim to improve step by step — from basics to advanced Java concepts — and 
 | 1   | 22/09/2025 | Java Basic Syntaxes  |
 | 2   | 23/09/2025 | User Input in Java   |
 | 3   | 24/09/2025 | If-Else Statements   |
+| 4   | 03/10/2025 | Switch Case          |
+
 
 
 “Small steps every day lead to big results.”
