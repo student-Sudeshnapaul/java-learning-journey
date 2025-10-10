@@ -13,13 +13,14 @@ I aim to improve step by step — from basics to advanced Java concepts — and 
 
 ---
 
-| Day | Date       | Topics Covered                           |
-| --- | ---------- | ---------------------------------------- |
-| 1   | 22/09/2025 | Java Basic Syntaxes                      |
-| 2   | 23/09/2025 | User Input in Java                       |
-| 3   | 24/09/2025 | If-Else Statements                       |
-| 4   | 03/10/2025 | Switch Case                              |
-| 5   | 07/10/2025 | Java Number Pattern (3 Questions Solved) |
+| Day | Date       | Topics Covered                                |
+| --- | ---------- | --------------------------------------------- |
+| 1   | 22/09/2025 | Java Basic Syntaxes                           |
+| 2   | 23/09/2025 | User Input in Java                            |
+| 3   | 24/09/2025 | If-Else Statements                            |
+| 4   | 03/10/2025 | Switch Case                                   |
+| 5   | 07/10/2025 | Java Number Pattern (3 Questions Solved)      |
+| 6   | 09/10/2025 | Java Number Pattern (3 More Questions Solved) |
 
 
 
