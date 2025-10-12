@@ -21,6 +21,7 @@ I aim to improve step by step — from basics to advanced Java concepts — and 
 | 4   | 03/10/2025 | Switch Case                                   |
 | 5   | 07/10/2025 | Java Number Pattern (3 Questions Solved)      |
 | 6   | 09/10/2025 | Java Number Pattern (3 More Questions Solved) |
+| 7   | 12/10/2025 | Java Number Pattern (5 Questions Solved)      |
 
 
 
